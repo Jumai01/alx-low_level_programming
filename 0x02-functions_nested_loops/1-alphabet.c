@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - Entry Level
+ * 
  * Description - functions that prints the aphabet in lowwer case
  * Return: Returns 0 Always
 */
